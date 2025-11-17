@@ -1,0 +1,1 @@
+# A-Zero-Shot-Object-Detection-Approach-for-Plastic-Waste-Classification-using-CLIP-and-OCR
